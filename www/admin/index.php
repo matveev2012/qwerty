@@ -12,7 +12,8 @@
   <?php include("blocks/header.php"); ?>
   <?php include("blocks/left.php"); ?>
   <td width="649" align="center" valign="top" class="main_border">
-    <p>Добро пожаловать в админский блок!</p>
+    <p>Добро пожаловать в админский блок!
+   </p>
     <p>&nbsp;</p>
     <p>
     </td>

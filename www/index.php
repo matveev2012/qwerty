@@ -23,9 +23,9 @@ $myrow=mysql_fetch_array($result);
     <p>&nbsp;</p>
     <p>
     </td>
-  </tr>
-  
-  
+    <tr>
+   
+  </tr>  
 <?php include("blocks/down.php"); ?>
 </table>
 </body>
