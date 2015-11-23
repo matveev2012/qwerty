@@ -1,0 +1,8 @@
+<script language="JavaScript" src="syte/audio/audio-player.js"></script>
+<object type="application/x-shockwave-flash" data="http://syte/audio/player.swf" id="audioplayer1" height="24" width="290">
+<param name="movie" value="http://syte/audio/player.swf">
+<param name="FlashVars" value="playerID=1&amp;soundFile=http://syte/audio/123.mp3">
+<param name="quality" value="high">
+<param name="menu" value="false">
+<param name="wmode" value="transparent">
+</object>
